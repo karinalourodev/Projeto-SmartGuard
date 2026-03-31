@@ -40,3 +40,4 @@ Instagram: @nome (instagram.com in Bing)
 ---
 ## 📜 Licença
 © 2026 SmartGuard Automação - Todos os direitos reservados.
+https://karinalourodev.github.io/Projeto-SmartGuard/
